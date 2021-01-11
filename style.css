@@ -1,6 +1,55 @@
 body{
-    font-family: 'Pirata One', cursive;
+    font-family: 'Poppins', sans-serif;
 }
 h1{
-    font-size: 30px;
+    font-size: 50px;
+    color: orange;
 }
+#b{
+    color: blue;
+}
+#so{
+    color: tomato;
+}
+.header{
+    text-align: right;
+}
+.hw{
+    width: 24%;
+    float: left;
+    margin-left: 6%;
+    padding-left: 2%;
+}
+.hw img{
+width: 100%;
+}
+.lb{
+    text-decoration: none;
+    background-image: linear-gradient( 40deg, salmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.section1{
+    background-image: url(image/New\ Project\ \(9\).png);
+    background-repeat: no-repeat;
+}
+.section2{
+    background-image: url("Image/New\ Project\ \(6\).png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.center{
+    text-align: center;}
+    .left{
+        text-align: initial;
+    }
+.image{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+}
+
+
